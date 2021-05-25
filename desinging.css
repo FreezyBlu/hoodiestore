@@ -1,0 +1,95 @@
+body
+{
+  font-family: sans-serif;
+  line-height: 2em;
+  margin:0;
+  /* background-image: url(https://media.istockphoto.com/vectors/abstract-colorful-watercolor-background-and-pastel-colorthe-unicorn-vector-id1163366288?k=6&m=1163366288&s=170667a&w=0&h=0JfWIrC_gRB86vgJhSbv52_2TUWp5tpf6qWclqrtL0E= */
+/* ); */
+  background-repeat: repeat ;
+   /* background-size: cover !important; */
+   /* background-image: url(https://i.pinimg.com/originals/e9/aa/69/e9aa6982e02fef615258e1fa083cfd34.png) !important; */
+   /* background: transparent ; */
+  /* opacity: 0.9; */
+  background-attachment: scroll;
+  background-color:#f9ecec;
+}
+h1
+{
+padding-top: 60px;
+margin-top: 0;
+text-align: center;
+font-family: 'Mansalva', cursive;
+
+
+}
+h3
+{
+  text-align: center;
+  font-family: 'Julee', cursive;
+  padding-top: 20px;
+  padding-bottom: 0;
+  font-size: 25px;
+
+}
+img{
+  border: 3px solid black;
+}
+table td
+{
+  width: 300px;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Sunshiney', cursive;
+  margin-left: 0;
+
+}
+p
+{
+  font-size: 20px;
+  text-align: left;
+  padding-left: 100px;
+
+}
+section
+{
+  height: 170px;
+  margin-top: 0;
+  background-image: url(https://previews.123rf.com/images/layritten/layritten1508/layritten150800013/43412570-seamless-pattern-of-colorful-clothes-for-stylish-design-transparent-pattern-background-of-clothing-s.jpg);
+}
+.tq
+{
+  color: pink;
+  text-align: center;
+}
+.u
+{
+  color: lightblue;
+}
+.fr
+{
+  color: #da9ff9;
+}
+.vis{
+  color: lightgreen;
+}
+.us
+{
+  color: orange;
+}
+.conclusion
+{
+text-align: center;
+padding-top:40px;
+padding-bottom:0;
+}
+a
+{
+  text-decoration: none;
+  color: white;
+  padding: 8px;
+}
+.foot
+{
+  background-image: url(https://st2.depositphotos.com/3680661/6741/v/950/depositphotos_67414153-stock-illustration-abstract-bright-colored-polygonal-geometric.jpg);
+  opacity:0.8;
+}
